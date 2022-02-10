@@ -6,8 +6,8 @@ It creates a random prediction for an upcoming game according to a group of pred
 
 ### Technologies
 This project was made using:
+  * JavaScript
 
-..* JavaScript
 
 ### Setup
 You can run this code by downloading the Main file and running it locally. 
